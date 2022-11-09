@@ -3,9 +3,7 @@ package representation;
 public class ZoneGeographique {
 	
 	private final int numero;
-	
 	private final String nom;
-	
 	private float indemniteRepas;
 
 	public ZoneGeographique(int numero, String nom) {
